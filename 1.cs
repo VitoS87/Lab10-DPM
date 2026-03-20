@@ -14,7 +14,6 @@ class Figures
     public Figures(int n)
     {
         Quantity = n;
-
         Numbers = new List<int>();
     }
     public void Create()
